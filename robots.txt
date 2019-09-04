@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oyiiteleey.rweissc.com/sitemap.xml
